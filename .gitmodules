@@ -1,0 +1,24 @@
+[submodule "packages/objc"]
+	path = packages/objc
+	url = https://github.com/NeedHer/greeter-objc.git
+[submodule "packages/cpp"]
+	path = packages/cpp
+	url = https://github.com/NeedHer/greeter-cpp.git
+[submodule "packages/d"]
+	path = packages/d
+	url = https://github.com/NeedHer/greeter-d.git
+[submodule "packages/haskell"]
+	path = packages/haskell
+	url = https://github.com/NeedHer/greeter-haskell.git
+[submodule "packages/java"]
+	path = packages/java
+	url = https://github.com/NeedHer/greeter-java.git
+[submodule "packages/rust"]
+	path = packages/rust
+	url = https://github.com/NeedHer/greeter-rust.git
+[submodule "packages/swift"]
+	path = packages/swift
+	url = https://github.com/NeedHer/greeter-swift.git
+[submodule "packages/go"]
+	path = packages/go
+	url = https://github.com/NeedHer/greeter-go.git
